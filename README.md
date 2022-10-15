@@ -1,7 +1,7 @@
 #
 <p align="center">
 <a href="https://github.com/lachesis17">
-<img align="center" src="https://user-images.githubusercontent.com/78860436/196000476-d5c896ab-31d0-42d2-9610-3ee80d211003.png" alt="https://github.com/lachesis17"></a>
+<img align="center" src="https://user-images.githubusercontent.com/78860436/196000476-d5c896ab-31d0-42d2-9610-3ee80d211003.png" alt="https://github.com/lachesis17" width="600"></a>
 
 # 
 </p>
