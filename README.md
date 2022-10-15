@@ -5,7 +5,7 @@
 </a>
 <div align="center">
 
-[🪐](https://github.com/lachesis17)
+<!---[🪐](https://github.com/lachesis17)--->
 
 
 </div>
