@@ -1,7 +1,7 @@
 # 
 <p align="center">
 <a href="https://github.com/lachesis17">
-<img align="center" src="https://user-images.githubusercontent.com/78860436/195998133-11c34529-9c9c-4a7b-ac45-6ad81ac58d75.png" alt="https://github.com/lachesis17">
+<img align="center" src="https://user-images.githubusercontent.com/78860436/196000476-d5c896ab-31d0-42d2-9610-3ee80d211003.png" alt="https://github.com/lachesis17">
 </a>
 <div align="center">
 
@@ -21,6 +21,7 @@
 - 👀 I’m interested in ...
 
 - 🌱 I’m currently learning ...
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
